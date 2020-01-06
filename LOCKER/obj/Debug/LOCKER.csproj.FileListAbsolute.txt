@@ -1,0 +1,75 @@
+C:\Users\kms\source\repos\LOCKER\LOCKER\bin\Debug\LOCKER.exe
+C:\Users\kms\source\repos\LOCKER\LOCKER\bin\Debug\LOCKER.pdb
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.Properties.Resources.resources
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.GenerateResource.cache
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.CoreCompileInputs.cache
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.exe
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.pdb
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.Main.resources
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.REGISTER.resources
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.csprojAssemblyReference.cache
+C:\Users\kms\source\repos\LOCKER\LOCKER\obj\Debug\LOCKER.RE_REGISTER.resources
+C:\Users\tg\Desktop\LOCKER\LOCKER\bin\Debug\LOCKER.exe
+C:\Users\tg\Desktop\LOCKER\LOCKER\bin\Debug\LOCKER.pdb
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.Main.resources
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.Properties.Resources.resources
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.RE_REGISTER.resources
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.REGISTER.resources
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.GenerateResource.cache
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.CoreCompileInputs.cache
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.exe
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.pdb
+C:\Users\tg\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csprojAssemblyReference.cache
+E:\VisualStudio Files\LOCKER\LOCKER\bin\Debug\LOCKER.exe
+E:\VisualStudio Files\LOCKER\LOCKER\bin\Debug\LOCKER.pdb
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.csprojAssemblyReference.cache
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.Main.resources
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.Properties.Resources.resources
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.RE_REGISTER.resources
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.REGISTER.resources
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.GenerateResource.cache
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.CoreCompileInputs.cache
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.exe
+E:\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.pdb
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\bin\Debug\LOCKER.exe
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\bin\Debug\LOCKER.pdb
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.csprojAssemblyReference.cache
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.Main.resources
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.RE_REGISTER.resources
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.REGISTER.resources
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.GenerateResource.cache
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.CoreCompileInputs.cache
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.exe
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.pdb
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\bin\Debug\MetroFramework.Design.dll
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\bin\Debug\MetroFramework.dll
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kms\Desktop\VisualStudio Files\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.CopyComplete
+C:\Users\kms\Desktop\LOCKER\LOCKER\bin\Debug\LOCKER.exe
+C:\Users\kms\Desktop\LOCKER\LOCKER\bin\Debug\LOCKER.pdb
+C:\Users\kms\Desktop\LOCKER\LOCKER\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kms\Desktop\LOCKER\LOCKER\bin\Debug\MetroFramework.Design.dll
+C:\Users\kms\Desktop\LOCKER\LOCKER\bin\Debug\MetroFramework.dll
+C:\Users\kms\Desktop\LOCKER\LOCKER\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csprojAssemblyReference.cache
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.RE_REGISTER.resources
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.REGISTER.resources
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.GenerateResource.cache
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.CoreCompileInputs.cache
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.CopyComplete
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.exe
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.pdb
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.Forms.Upadte.resources
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.Forms.Main_Hard.resources
+C:\Users\kms\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.Main_Normal.resources
+A:\Desktop\LOCKER\LOCKER\bin\Debug\LOCKER.exe
+A:\Desktop\LOCKER\LOCKER\bin\Debug\LOCKER.pdb
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csprojAssemblyReference.cache
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.RE_REGISTER.resources
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.REGISTER.resources
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.GenerateResource.cache
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.exe
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.pdb
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.csproj.Fody.CopyLocal.cache
+A:\Desktop\LOCKER\LOCKER\obj\Debug\LOCKER.Main.resources
